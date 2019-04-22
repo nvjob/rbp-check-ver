@@ -51,3 +51,8 @@ https://www.youtube.com/watch?v=CGCWCQpIavA
 https://www.youtube.com/watch?v=e3GtYZBEm08
 
 https://www.youtube.com/watch?v=wj63WRrRjEo
+
+------------------------------------
+
+### Authors
+Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
