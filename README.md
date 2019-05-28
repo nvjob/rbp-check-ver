@@ -56,3 +56,6 @@ https://www.youtube.com/watch?v=wj63WRrRjEo
 
 ### Authors
 Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+
+### Donate
+You can thank me by a voluntary donation. https://nvjob.pro/donations.html
