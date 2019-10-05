@@ -3,8 +3,8 @@
 
 https://rainbenchmark.pro
 
-Benchmark for testing the performance of a personal computer. 
-The benchmark consists of 5 basic tests. Has a small file size of 20MB. 
+Benchmark to test PC performance and stability. Benchmark consists of 5 different tests that can heavily load even very productive home PCs, workstations and servers with a large number of processor cores.<br>
+Benchmark has a compact size, only 20 MB and does not require installation.
 
 Only standalone versions of the program are stored here.<br>
 These are not source codes !!!
